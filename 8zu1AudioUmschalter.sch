@@ -1319,12 +1319,6 @@ F 3 "" H 9350 1850 30  0000 C CNN
 	1    9350 1850
 	0    1    1    0   
 $EndComp
-Wire Wire Line
-	8350 1000 8450 1000
-Wire Wire Line
-	8050 1000 7950 1000
-Wire Wire Line
-	8850 1000 9200 1000
 $Comp
 L GND #PWR?
 U 1 1 5506BFAD
