@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-03-04 BZR 5478)-product   date = Mo 16 Mär 2015 14:55:38 CET
+Cmp-Mod V01 Created by Cvpcb (2015-03-12 BZR 5508)-product   date = 16.03.2015 15:43:38
 
 BeginCmp
 TimeStamp = /55066830;
@@ -172,7 +172,7 @@ BeginCmp
 TimeStamp = /55030722;
 Reference = IC2;
 ValeurCmp = MAX9890;
-IdModule  = ;
+IdModule  = Audio3:TDFN8;
 EndCmp
 
 BeginCmp
@@ -186,105 +186,105 @@ BeginCmp
 TimeStamp = /55052536;
 Reference = J2;
 ValeurCmp = LUM 1503-07;
-IdModule  = ;
+IdModule  = Audio3:LUM1503;
 EndCmp
 
 BeginCmp
 TimeStamp = /55056E7C;
 Reference = J3;
 ValeurCmp = LUM 1503-07;
-IdModule  = ;
+IdModule  = Audio3:LUM1503;
 EndCmp
 
 BeginCmp
 TimeStamp = /55057040;
 Reference = J4;
 ValeurCmp = LUM 1503-07;
-IdModule  = ;
+IdModule  = Audio3:LUM1503;
 EndCmp
 
 BeginCmp
 TimeStamp = /55057175;
 Reference = J5;
 ValeurCmp = LUM 1503-07;
-IdModule  = ;
+IdModule  = Audio3:LUM1503;
 EndCmp
 
 BeginCmp
 TimeStamp = /55055C68;
 Reference = J6;
 ValeurCmp = LUM 1503-07;
-IdModule  = ;
+IdModule  = Audio3:LUM1503;
 EndCmp
 
 BeginCmp
 TimeStamp = /55055D2E;
 Reference = J7;
 ValeurCmp = LUM 1503-07;
-IdModule  = ;
+IdModule  = Audio3:LUM1503;
 EndCmp
 
 BeginCmp
 TimeStamp = /550541B8;
 Reference = J8;
 ValeurCmp = LUM 1503-07;
-IdModule  = ;
+IdModule  = Audio3:LUM1503;
 EndCmp
 
 BeginCmp
 TimeStamp = /55055A8D;
 Reference = J9;
 ValeurCmp = LUM 1503-07;
-IdModule  = ;
+IdModule  = Audio3:LUM1503;
 EndCmp
 
 BeginCmp
 TimeStamp = /55056E76;
 Reference = K1;
 ValeurCmp = RELAY_2RT;
-IdModule  = ;
+IdModule  = Audio3:REL_NA05W;
 EndCmp
 
 BeginCmp
 TimeStamp = /5505703A;
 Reference = K2;
 ValeurCmp = RELAY_2RT;
-IdModule  = ;
+IdModule  = Audio3:REL_NA05W;
 EndCmp
 
 BeginCmp
 TimeStamp = /5505716F;
 Reference = K3;
 ValeurCmp = RELAY_2RT;
-IdModule  = ;
+IdModule  = Audio3:REL_NA05W;
 EndCmp
 
 BeginCmp
 TimeStamp = /5502F7E2;
 Reference = K4;
 ValeurCmp = RELAY_2RT;
-IdModule  = ;
+IdModule  = Audio3:REL_NA05W;
 EndCmp
 
 BeginCmp
 TimeStamp = /5502F7E8;
 Reference = K5;
 ValeurCmp = RELAY_2RT;
-IdModule  = ;
+IdModule  = Audio3:REL_NA05W;
 EndCmp
 
 BeginCmp
 TimeStamp = /5502F55B;
 Reference = K6;
 ValeurCmp = RELAY_2RT;
-IdModule  = ;
+IdModule  = Audio3:REL_NA05W;
 EndCmp
 
 BeginCmp
 TimeStamp = /5502F6E8;
 Reference = K7;
 ValeurCmp = RELAY_2RT;
-IdModule  = ;
+IdModule  = Audio3:REL_NA05W;
 EndCmp
 
 BeginCmp
@@ -375,21 +375,21 @@ BeginCmp
 TimeStamp = /550493C1;
 Reference = U1;
 ValeurCmp = FT232RL;
-IdModule  = ;
+IdModule  = Housings_SSOP:SSOP-28_5.3x10.2mm_Pitch0.65mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /5502F0EF;
 Reference = U2;
 ValeurCmp = ULN2003;
-IdModule  = ;
+IdModule  = SMD_Packages:SO-16-N;
 EndCmp
 
 BeginCmp
 TimeStamp = /55051414;
 Reference = Y1;
 ValeurCmp = 16Mhz;
-IdModule  = ;
+IdModule  = Crystals:Crystal_HC49-U_Vertical;
 EndCmp
 
 EndListe
