@@ -296,18 +296,6 @@ Wire Wire Line
 Wire Wire Line
 	10350 4900 9800 4900
 Wire Wire Line
-	8250 4300 8500 4300
-Wire Wire Line
-	8250 4400 8500 4400
-Wire Wire Line
-	8250 4500 8500 4500
-Wire Wire Line
-	8250 4600 8500 4600
-Wire Wire Line
-	8250 4700 8500 4700
-Wire Wire Line
-	8250 4800 8500 4800
-Wire Wire Line
 	8300 6750 8250 6750
 Wire Wire Line
 	8300 5900 8300 6750
@@ -1192,19 +1180,19 @@ Entry Wire Line
 	8250 4300 8350 4200
 Wire Bus Line
 	8350 1700 8350 4950
-Text Label 8400 4300 0    60   ~ 0
+Text Label 8500 4300 0    60   ~ 0
 REL0
-Text Label 8400 4400 0    60   ~ 0
+Text Label 8500 4400 0    60   ~ 0
 REL1
-Text Label 8400 4500 0    60   ~ 0
+Text Label 8500 4500 0    60   ~ 0
 REL2
-Text Label 8400 4600 0    60   ~ 0
+Text Label 8500 4600 0    60   ~ 0
 REL3
-Text Label 8400 4700 0    60   ~ 0
+Text Label 8500 4700 0    60   ~ 0
 REL4
-Text Label 8400 4800 0    60   ~ 0
+Text Label 8500 4800 0    60   ~ 0
 REL5
-Text Label 8400 4900 0    60   ~ 0
+Text Label 8500 4900 0    60   ~ 0
 REL6
 Entry Wire Line
 	8350 1950 8450 1850
@@ -1650,4 +1638,16 @@ F 3 "" H 7450 8950 60  0000 C CNN
 	1    7450 8950
 	1    0    0    -1  
 $EndComp
+Text Label 8250 4300 0    60   ~ 0
+REL5
+Text Label 8250 4400 0    60   ~ 0
+REL4
+Text Label 8250 4500 0    60   ~ 0
+REL3
+Text Label 8250 4600 0    60   ~ 0
+REL2
+Text Label 8250 4700 0    60   ~ 0
+REL1
+Text Label 8250 4800 0    60   ~ 0
+REL0
 $EndSCHEMATC
