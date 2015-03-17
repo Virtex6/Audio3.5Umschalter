@@ -298,9 +298,7 @@ Wire Wire Line
 Wire Wire Line
 	8300 6750 8250 6750
 Wire Wire Line
-	8300 5900 8300 6400
-Wire Wire Line
-	8300 6400 8300 6750
+	8300 5900 8300 6750
 Wire Wire Line
 	8300 5900 8250 5900
 Wire Wire Line
@@ -326,15 +324,7 @@ Wire Wire Line
 Wire Wire Line
 	9800 9250 9800 9400
 Wire Bus Line
-	8800 5750 8800 7950
-Wire Bus Line
-	8800 7950 8800 8100
-Wire Bus Line
-	8800 8100 8800 8250
-Wire Bus Line
-	8800 8250 8800 8400
-Wire Bus Line
-	8800 8400 8800 8500
+	8800 5750 8800 8500
 Entry Wire Line
 	8700 8050 8800 7950
 Entry Wire Line
@@ -368,15 +358,7 @@ Wire Wire Line
 Wire Wire Line
 	8250 5500 8500 5500
 Wire Bus Line
-	8600 5000 8600 5100
-Wire Bus Line
-	8600 5100 8600 5200
-Wire Bus Line
-	8600 5200 8600 5300
-Wire Bus Line
-	8600 5300 8600 5400
-Wire Bus Line
-	8600 5400 8600 5750
+	8600 5000 8600 5750
 Wire Bus Line
 	8600 5750 8800 5750
 Text Label 8550 8050 0    60   ~ 0
@@ -478,13 +460,7 @@ NoConn ~ 6350 9250
 Wire Wire Line
 	7150 10350 7150 10450
 Wire Wire Line
-	7150 10450 7300 10450
-Wire Wire Line
-	7300 10450 7450 10450
-Wire Wire Line
-	7450 10450 7600 10450
-Wire Wire Line
-	7600 10450 7750 10450
+	7150 10450 7750 10450
 Wire Wire Line
 	7300 10450 7300 10350
 Wire Wire Line
@@ -533,9 +509,7 @@ $EndComp
 Wire Wire Line
 	6100 3300 6100 3200
 Wire Wire Line
-	6000 3600 6100 3600
-Wire Wire Line
-	6100 3600 6350 3600
+	6000 3600 6350 3600
 Connection ~ 6100 3600
 $Comp
 L C C2
@@ -665,17 +639,13 @@ Wire Wire Line
 Wire Wire Line
 	6200 4300 6200 4250
 Wire Wire Line
-	6200 4250 6000 4250
-Wire Wire Line
-	6000 4250 5750 4250
+	6200 4250 5750 4250
 Wire Wire Line
 	6350 4500 6200 4500
 Wire Wire Line
 	6200 4500 6200 4550
 Wire Wire Line
-	6800 6850 7100 6850
-Wire Wire Line
-	7100 6850 7250 6850
+	6800 6850 7250 6850
 $Comp
 L GND #PWR017
 U 1 1 55051FE5
@@ -1060,11 +1030,7 @@ Wire Wire Line
 Wire Wire Line
 	7200 3200 7200 3300
 Wire Wire Line
-	7300 2750 7300 2900
-Wire Wire Line
-	7300 2900 7300 3200
-Wire Wire Line
-	7300 3200 7300 3300
+	7300 2750 7300 3300
 Wire Wire Line
 	7200 3200 7300 3200
 Connection ~ 7300 3200
@@ -1196,9 +1162,7 @@ NoConn ~ 8250 5800
 Wire Wire Line
 	6350 8050 6300 8050
 Wire Wire Line
-	6300 7750 6300 8050
-Wire Wire Line
-	6300 8050 6300 8200
+	6300 7750 6300 8200
 NoConn ~ 8250 3800
 NoConn ~ 8250 3700
 NoConn ~ 8250 3600
@@ -1215,35 +1179,7 @@ Entry Wire Line
 Entry Wire Line
 	8250 4300 8350 4200
 Wire Bus Line
-	8350 1700 8350 1950
-Wire Bus Line
-	8350 1950 8350 2200
-Wire Bus Line
-	8350 2200 8350 2450
-Wire Bus Line
-	8350 2450 8350 2700
-Wire Bus Line
-	8350 2700 8350 2950
-Wire Bus Line
-	8350 2950 8350 3200
-Wire Bus Line
-	8350 3200 8350 3450
-Wire Bus Line
-	8350 3450 8350 4000
-Wire Bus Line
-	8350 4000 8350 4200
-Wire Bus Line
-	8350 4200 8350 4300
-Wire Bus Line
-	8350 4300 8350 4400
-Wire Bus Line
-	8350 4400 8350 4500
-Wire Bus Line
-	8350 4500 8350 4600
-Wire Bus Line
-	8350 4600 8350 4700
-Wire Bus Line
-	8350 4700 8350 4950
+	8350 1700 8350 4950
 Text Label 8500 4300 0    60   ~ 0
 REL0
 Text Label 8500 4400 0    60   ~ 0
@@ -1540,9 +1476,7 @@ F 3 "" H 8600 6400 60  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	7100 6750 7200 6750
-Wire Wire Line
-	7200 6750 7250 6750
+	7100 6750 7250 6750
 Connection ~ 7200 6750
 Wire Wire Line
 	8500 4900 8350 4900
@@ -1569,9 +1503,7 @@ Text Label 8500 1850 0    60   ~ 0
 REL0
 Connection ~ 8300 6400
 Wire Wire Line
-	5750 4850 5850 4850
-Wire Wire Line
-	5850 4850 6000 4850
+	5750 4850 6000 4850
 Wire Wire Line
 	5750 4850 5750 4550
 Connection ~ 5850 4850
@@ -1659,11 +1591,7 @@ Wire Wire Line
 Wire Wire Line
 	6050 7750 6050 8050
 Wire Wire Line
-	6050 8050 5450 8050
-Wire Wire Line
-	5450 8050 5350 8050
-Wire Wire Line
-	5350 8050 5250 8050
+	6050 8050 5250 8050
 Connection ~ 5350 8050
 Connection ~ 5250 8050
 Wire Wire Line
@@ -1685,22 +1613,11 @@ Wire Wire Line
 Wire Wire Line
 	5100 9000 5100 8850
 Wire Wire Line
-	7200 6450 7200 6300
-Wire Wire Line
-	7200 6300 7200 6200
+	7200 6200 7200 6450
 Wire Wire Line
 	7050 6300 7200 6300
 Connection ~ 7200 6300
 Connection ~ 7200 6200
-Connection ~ 11350 8650
-Entry Wire Line
-	11500 8550 11600 8450
-Entry Wire Line
-	11500 8550 11600 8450
-Entry Wire Line
-	11500 8550 11600 8450
-Entry Wire Line
-	11350 9750 11450 9650
 $Comp
 L FT232RL U1
 U 1 1 550493C1
@@ -1737,4 +1654,40 @@ F 3 "" H 7750 7250 60  0000 C CNN
 $EndComp
 Connection ~ 7000 1700
 Connection ~ 7000 1400
+$Comp
+L CONN_01X01 P1
+U 1 1 5508A7D3
+P 12650 8950
+F 0 "P1" H 12650 9050 50  0000 C CNN
+F 1 "CONN_01X01" V 12750 8950 50  0000 C CNN
+F 2 "Mounting_Holes:MountingHole_3mm" H 12650 8950 60  0001 C CNN
+F 3 "" H 12650 8950 60  0000 C CNN
+	1    12650 8950
+	0    1    1    0   
+$EndComp
+NoConn ~ 12650 8750
+$Comp
+L CONN_01X01 P2
+U 1 1 5508BB0F
+P 13200 8950
+F 0 "P2" H 13200 9050 50  0000 C CNN
+F 1 "CONN_01X01" V 13300 8950 50  0000 C CNN
+F 2 "Mounting_Holes:MountingHole_3mm" H 13200 8950 60  0001 C CNN
+F 3 "" H 13200 8950 60  0000 C CNN
+	1    13200 8950
+	0    1    1    0   
+$EndComp
+NoConn ~ 13200 8750
+$Comp
+L CONN_01X01 P3
+U 1 1 5508BBA1
+P 13700 8950
+F 0 "P3" H 13700 9050 50  0000 C CNN
+F 1 "CONN_01X01" V 13800 8950 50  0000 C CNN
+F 2 "Mounting_Holes:MountingHole_3mm" H 13700 8950 60  0001 C CNN
+F 3 "" H 13700 8950 60  0000 C CNN
+	1    13700 8950
+	0    1    1    0   
+$EndComp
+NoConn ~ 13700 8750
 $EndSCHEMATC

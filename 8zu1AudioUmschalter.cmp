@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-03-04 BZR 5478)-product   date = Mo 16 Mär 2015 16:09:43 CET
+Cmp-Mod V01 Created by Cvpcb (2015-03-12 BZR 5508)-product   date = 17.03.2015 00:36:55
 
 BeginCmp
 TimeStamp = /55066830;
@@ -285,6 +285,13 @@ TimeStamp = /5502F6E8;
 Reference = K7;
 ValeurCmp = RELAY_2RT;
 IdModule  = Audio3:REL_NA05W;
+EndCmp
+
+BeginCmp
+TimeStamp = /5508A7D3;
+Reference = P1;
+ValeurCmp = CONN_01X01;
+IdModule  = Mounting_Holes:MountingHole_3mm;
 EndCmp
 
 BeginCmp
