@@ -1,4 +1,4 @@
-update=16.03.2015 15:41:09
+update=20.03.2015 21:14:40
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,3 +61,4 @@ LibName29=contrib
 LibName30=valves
 LibName31=max9890
 LibName32=ft232rl
+LibName33=tmp75

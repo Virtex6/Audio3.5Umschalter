@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-03-12 BZR 5508)-product   date = 17.03.2015 00:36:55
+Cmp-Mod V01 Created by Cvpcb (2015-03-12 BZR 5508)-product   date = 20.03.2015 21:43:58
 
 BeginCmp
 TimeStamp = /55066830;
@@ -176,6 +176,13 @@ IdModule  = Housings_DFN_QFN:DFN-8-1EP_3x3mm_Pitch0.65mm;
 EndCmp
 
 BeginCmp
+TimeStamp = /550C7FC6;
+Reference = IC3;
+ValeurCmp = TMP75;
+IdModule  = SMD_Packages:SOIC-8-N;
+EndCmp
+
+BeginCmp
 TimeStamp = /55048A37;
 Reference = J1;
 ValeurCmp = USB;
@@ -295,6 +302,20 @@ IdModule  = Mounting_Holes:MountingHole_3mm;
 EndCmp
 
 BeginCmp
+TimeStamp = /5508BB0F;
+Reference = P2;
+ValeurCmp = CONN_01X01;
+IdModule  = Mounting_Holes:MountingHole_3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5508BBA1;
+Reference = P3;
+ValeurCmp = CONN_01X01;
+IdModule  = Mounting_Holes:MountingHole_3mm;
+EndCmp
+
+BeginCmp
 TimeStamp = /5504A3F8;
 Reference = R1;
 ValeurCmp = 270;
@@ -375,6 +396,20 @@ BeginCmp
 TimeStamp = /5506C58D;
 Reference = R12;
 ValeurCmp = 270;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /550CCAFA;
+Reference = R13;
+ValeurCmp = 5k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /550CC98F;
+Reference = R14;
+ValeurCmp = 5k;
 IdModule  = Resistors_SMD:R_0603;
 EndCmp
 
