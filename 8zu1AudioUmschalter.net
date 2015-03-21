@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source "F:/Daten in Bearbeitung/GitHub/Audio3.5Umschalter/8zu1AudioUmschalter.sch")
-    (date "20.03.2015 21:55:25")
+    (date "21.03.2015 08:13:13")
     (tool "Eeschema (2015-03-12 BZR 5508)-product")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
