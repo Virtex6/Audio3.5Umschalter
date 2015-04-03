@@ -360,9 +360,9 @@ Wire Bus Line
 	8600 5000 8600 5750
 Wire Bus Line
 	8600 5750 8800 5750
-Text Label 8550 8050 0    60   ~ 0
-TX
 Text Label 8550 8200 0    60   ~ 0
+TX
+Text Label 8550 8050 0    60   ~ 0
 RX
 Text Label 8550 8350 0    60   ~ 0
 RTS
